@@ -1,0 +1,110 @@
+Total Stats:
+Average Connections/node = 10.8672
+Average Connections/miner = 14
+Mean Block Receive Time = 613.861 or 10min and 13.8605s
+Mean Block Propagation Time = 13.8605s
+Median Block Propagation Time = 6.92109s
+10% percentile of Block Propagation Time = 5.40857s
+25% percentile of Block Propagation Time = 5.94023s
+75% percentile of Block Propagation Time = 12.9365s
+90% percentile of Block Propagation Time = 30.3986s
+Miners Mean Block Propagation Time = 0s
+Miners Median Block Propagation Time = 0s
+Mean Block Size = 746034 Bytes
+Total Blocks = 2
+Stale Blocks = 0 (0%)
+The size of the longest fork was 0 blocks
+There were in total 0 blocks in forks
+The average received INV messages were 1284.07 Bytes (0.0265321%)
+The average received INV_TXN messages were 749874 Bytes (15.4942%)
+The average received GET_DATA messages were 129.675 Bytes (0.0026794%)
+The average received GET_DATA_TXN messages were 258661 Bytes (5.34457%)
+The average received BLOCK messages were 0 Bytes (0%)
+The average received TXN messages were 1.29661e+06 Bytes (26.7912%)
+The average received COMPACTBLOCK messages were 443.887 Bytes (0.00917181%)
+The average received GETBLOCKTXN messages were 1.0725 Bytes (2.21605e-05%)
+The average received BLOCKTXN messages were 30.4425 Bytes (0.000629017%)
+The average sent INV messages were 1284.07 Bytes (0.0265321%)
+The average sent INV_TXN messages were 850988 Bytes (17.5835%)
+The average sent GET_DATA messages were 129.675 Bytes (0.0026794%)
+The average sent GET_DATA_TXN messages were 307811 Bytes (6.36014%)
+The average sent BLOCK messages were 0 Bytes (0%)
+The average sent TXN messages were 1.37197e+06 Bytes (28.3483%)
+The average sent COMPACTBLOCK messages were 443.887 Bytes (0.00917181%)
+The average sent GETBLOCKTXN messages were 0.3975 Bytes (8.21333e-06%)
+The average sent BLOCKTXN messages were 29.7675 Bytes (0.00061507%)
+Total average traffic due to INV messages = 2568.15 Bytes(0.0530643%)
+Total average traffic due to INV_TXN messages = 1.60086e+06 Bytes(33.0777%)
+Total average traffic due to GET_DATA messages = 259.35 Bytes(0.00535881%)
+Total average traffic due to GET_DATA_TXN messages = 566472 Bytes(11.7047%)
+Total average traffic due to BLOCK messages = 0 Bytes(0%)
+Total average traffic due to TXN messages = 2.66858e+06 Bytes(55.1395%)
+Total average traffic due to COMPACKBLOCK messages = 887.775 Bytes(0.0183436%)
+Total average traffic due to GETBLOCKTXN messages = 1.47 Bytes(3.03738e-05%)
+Total average traffic due to BLOCKTXN messages = 60.21 Bytes(0.00124409%)
+Total  traffic due to BLOCKTXN messages = 24084 Bytes
+Total average traffic/node = 4.8397e+06 Bytes (64.5293 Kbps and 4839.7 KB/block)
+305.926s per generated block
+The broadcast type was STANDARD.
+The protocol type was COMPACT.
+
+The simulation ran for 306.682s simulating 20mins. Performed 3.91285 faster than realtime.
+Setup time = 0.756332s
+It consisted of 400 nodes (1 miners) with minConnectionsPerNode = -1 and maxConnectionsPerNode = -1.
+The averageBlockGenIntervalMinutes was 10min.
+
+
+Total Stats:
+Average Connections/node = 10.8672
+Average Connections/miner = 14
+Mean Block Receive Time = 621.321 or 10min and 21.3207s
+Mean Block Propagation Time = 21.3207s
+Median Block Propagation Time = 13.5803s
+10% percentile of Block Propagation Time = 8.12957s
+25% percentile of Block Propagation Time = 10.7102s
+75% percentile of Block Propagation Time = 20.0857s
+90% percentile of Block Propagation Time = 41.4534s
+Miners Mean Block Propagation Time = 0s
+Miners Median Block Propagation Time = 0s
+Mean Block Size = 746034 Bytes
+Total Blocks = 2
+Stale Blocks = 0 (0%)
+The size of the longest fork was 0 blocks
+There were in total 0 blocks in forks
+The average received INV messages were 1284.07 Bytes (0.0202919%)
+The average received INV_TXN messages were 751485 Bytes (11.8755%)
+The average received GET_DATA messages were 129.675 Bytes (0.00204922%)
+The average received GET_DATA_TXN messages were 258472 Bytes (4.08456%)
+The average received BLOCK messages were 744259 Bytes (11.7613%)
+The average received TXN messages were 1.29558e+06 Bytes (20.4736%)
+The average received COMPACTBLOCK messages were 0 Bytes (0%)
+The average received GETBLOCKTXN messages were 0 Bytes (0%)
+The average received BLOCKTXN messages were 0 Bytes (0%)
+The average sent INV messages were 1284.07 Bytes (0.0202919%)
+The average sent INV_TXN messages were 852600 Bytes (13.4734%)
+The average sent GET_DATA messages were 129.675 Bytes (0.00204922%)
+The average sent GET_DATA_TXN messages were 307629 Bytes (4.86138%)
+The average sent BLOCK messages were 744259 Bytes (11.7613%)
+The average sent TXN messages were 1.37091e+06 Bytes (21.6641%)
+The average sent COMPACTBLOCK messages were 0 Bytes (0%)
+The average sent GETBLOCKTXN messages were 0 Bytes (0%)
+The average sent BLOCKTXN messages were 0 Bytes (0%)
+Total average traffic due to INV messages = 2568.15 Bytes(0.0405838%)
+Total average traffic due to INV_TXN messages = 1.60409e+06 Bytes(25.349%)
+Total average traffic due to GET_DATA messages = 259.35 Bytes(0.00409844%)
+Total average traffic due to GET_DATA_TXN messages = 566101 Bytes(8.94595%)
+Total average traffic due to BLOCK messages = 1.48852e+06 Bytes(23.5227%)
+Total average traffic due to TXN messages = 2.66648e+06 Bytes(42.1378%)
+Total average traffic due to COMPACKBLOCK messages = 0 Bytes(0%)
+Total average traffic due to GETBLOCKTXN messages = 0 Bytes(0%)
+Total average traffic due to BLOCKTXN messages = 0 Bytes(0%)
+Total  traffic due to BLOCKTXN messages = 0 Bytes(
+Total average traffic/node = 6.32801e+06 Bytes (84.3735 Kbps and 6328.01 KB/block)
+307.787s per generated block
+The broadcast type was STANDARD.
+The protocol type was STANDARD.
+
+The simulation ran for 308.496s simulating 20mins. Performed 3.88984 faster than realtime.
+Setup time = 0.70937s
+It consisted of 400 nodes (1 miners) with minConnectionsPerNode = -1 and maxConnectionsPerNode = -1.
+The averageBlockGenIntervalMinutes was 10min.
